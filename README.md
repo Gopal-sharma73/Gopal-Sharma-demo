@@ -1,4 +1,4 @@
-# Gopal-Sharma-demo
+# my first hithub project -demo
 This is my first Git repository.
 <br/>
 author - Gopal Sharma
